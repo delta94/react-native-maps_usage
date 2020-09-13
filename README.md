@@ -38,9 +38,11 @@ react-native-maps usage
 > ```xml
 >   <application
 >   ... />
+>     ...
 >     <meta-data
 >     android:name="com.google.android.geo.API_KEY"
 >     android:value="API_KEY" />
+>     ...
 >   </application>
 > ```
 > - Third, open ~project/android/build.gradle file. <br/> And add these lines in ext
