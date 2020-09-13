@@ -8,7 +8,7 @@ react-native-maps usage
 
 ## How to use
 > ### Source, more details
-> react-native-maps: <https://github.com/react-native-community/react-native-maps>
+> [react-native-maps](https://github.com/react-native-community/react-native-maps)
 
 > ### **For ios**
 > - First, install react-native-maps
