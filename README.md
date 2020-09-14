@@ -37,7 +37,7 @@ react-native-maps usage
 > - Second, open ~project/android/app/src/main/AndroidManifest.xml file. <br/> And add these lines in application element
 > ```xml
 >   <application
->   ... >
+>   ...>
 >     ...
 >     <meta-data
 >     android:name="com.google.android.geo.API_KEY"
