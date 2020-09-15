@@ -30,7 +30,7 @@ react-native-maps usage
 >   <MapView />
 >   ...
 > ```
-> It'll use an apple map
+> It'll use the apple map
 
 > ### **For android**
 > - First, get google api key.
@@ -64,4 +64,4 @@ react-native-maps usage
 >   <MapView />
 >   ...
 > ```
-> It'll use a google map
+> It'll use the google map
